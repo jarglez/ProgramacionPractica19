@@ -1,0 +1,1 @@
+pandoc Reporte.md -o Reporte.pdf
